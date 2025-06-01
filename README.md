@@ -2,7 +2,7 @@ An advanced speech-to-text transcription system tailored for Urdu, built with st
 
 Features Speech-to-Text Conversion: Converts Urdu audio files into accurate text transcriptions. Model Integration: Utilizes OpenAI's Whisper model for ASR and T5 for language fine-tuning. Pre-Processing Techniques: Handles noisy and multilingual datasets with advanced audio cleaning and tokenization strategies. Word Error Rate Analysis: Includes evaluation metrics to measure transcription accuracy and optimize pipeline performance.
 
-git clone https://github.com/yourusername/urdu-asr-pipeline.git pip install -r requirements.txt
+git clone https://github.com/Devesh-7/urdu-asr-pipeline.git pip install -r requirements.txt
 
 Download and prepare your dataset: Add your audio files to the data/audio/ folder. Transcriptions (if available) can go into data/text/.
 
